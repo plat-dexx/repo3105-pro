@@ -3,7 +3,7 @@
   "identifier": "com.yangjiii.platdex",
   "name": "Plat Dex Repo",
   "description": "Repo Của Plat Dex",
-  "icon": "assets/ANH1.png",
+  "icon": "assets/ANH0.png",
   "packages": [
     {
       "identifier": "HackMapAOV.3105",
@@ -18,9 +18,9 @@
         "Game Cheat PlatDex"
       ],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH12.png",
+      "icon": "assets/ANH2.png",
       "screenshots": [
-        "assets/ANH0.png"
+        "assets/ANH1.png"
       ],
       "download": "packages/HackMapAOV.3105",
       "sha256": "85748555ae5f8ece18522fa26a93f25d326b56aabcd4610d386f974d34b37da7",
@@ -63,9 +63,9 @@
         "Game Cheat PlatDex"
       ],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH11.png",
+      "icon": "assets/ANH3.png",
       "screenshots": [
-        "assets/ANH0.png"
+        "assets/ANH1.png"
       ],
       "download": "packages/ESP-FFTH.3105",
       "sha256": "47b6fffb0634cd2bde941cab6bec5b088760cb9d0f2d8d0125b728a0e6ad1790",
@@ -108,9 +108,9 @@
         "Game Cheat PlatDex"
       ],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH11.png",
+      "icon": "assets/ANH3.png",
       "screenshots": [
-        "assets/ANH0.png"
+        "assets/ANH1.png"
       ],
       "download": "packages/ESP-FFM.3105",
       "sha256": "2fddb61e9d7f779b085883d36792e196373e7e705772df7c3082d2cdda771a01",
@@ -153,9 +153,9 @@
         "Game Cheat PlatDex"
       ],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH11.png",
+      "icon": "assets/ANH3.png",
       "screenshots": [
-        "assets/ANH0.png"
+        "assets/ANH1.png"
       ],
       "download": "packages/AIMLOCK-FFTH.3105",
       "sha256": "3103a44d6ebc801291f8c0640855407062dbfc93e383c695ae167e4642892559",
@@ -198,9 +198,9 @@
         "Game Cheat PlatDex"
       ],
       "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH11.png",
+      "icon": "assets/ANH3.png",
       "screenshots": [
-        "assets/ANH0.png"
+        "assets/ANH1.png"
       ],
       "download": "packages/AIMLOCK-FFM.3105",
       "sha256": "ded3b4474536929414d73b81b7cc00514ad177b4244d4d2febe2e3a902a113ab",
