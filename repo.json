@@ -51,9 +51,9 @@
       "isPrivate": false
     },
     {
-      "identifier": "ESPFFTH.3105",
+      "identifier": "MENU-FFTH.3105",
       "kind": "patch",
-      "name": "Hack ESPAIM FFTH Chấp Tố.",
+      "name": "Hack MENU FFTH Chấp Tố.",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Hack FFTH Chấp Tố.",
@@ -67,9 +67,10 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/ESPFFTH.3105",
-      "sha256": "7b680bad77d3492ed74cf7524f6abb9ce31503e336780627b562f9e9517f0f09",
-      "size": 22069,
+      "download": "packages/MENU-FFTH.3105",
+      "sha256": "7bf98816a3a2339ddc9372331b552169e0f31ebfe82c8fc68c9be25e494ac329",
+      "size": 34205,
+      "password": "YaPaoCheat",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -95,9 +96,9 @@
       "isPrivate": false
     },
     {
-      "identifier": "ESPFFM.3105",
+      "identifier": "MENU-FFM.3105",
       "kind": "patch",
-      "name": "Hack ESPAIM FFMAX Chấp Tố.",
+      "name": "Hack MENU FFMAX Chấp Tố.",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Hack FFMAX Chấp Tố.",
@@ -111,9 +112,10 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/ESPFFM.3105",
-      "sha256": "a88815a4aa855f051728cccf5352da1a80da6075dba63620943990ef2a478591",
-      "size": 22063,
+      "download": "packages/MENU-FFM.3105",
+      "sha256": "e7c2f39450d4730d2b8aa77b8d7a51c31ed89b0c971fa2fc6fb73f1d967ea10b",
+      "size": 34216,
+      "password": "YaPaoCheat",
       "supportedOS": [
         {
           "minimum": "17.0",
