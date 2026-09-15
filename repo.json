@@ -51,9 +51,9 @@
       "isPrivate": false
     },
     {
-      "identifier": "ESP360-FFTH.3105",
+      "identifier": "ESPFFTH.3105",
       "kind": "patch",
-      "name": "Hack ESP FFTH Chấp Tố.",
+      "name": "Hack ESPAIM FFTH Chấp Tố.",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Hack FFTH Chấp Tố.",
@@ -67,9 +67,9 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/ESP360-FFTH.3105",
-      "sha256": "1673a0d91ee99ae6187d2905ce216e32aae9cd1ba009306ffab00b3bd0d3cf33",
-      "size": 10927,
+      "download": "packages/ESPFFTH.3105",
+      "sha256": "7b680bad77d3492ed74cf7524f6abb9ce31503e336780627b562f9e9517f0f09",
+      "size": 22069,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -95,9 +95,9 @@
       "isPrivate": false
     },
     {
-      "identifier": "ESP360-FFM.3105",
+      "identifier": "ESPFFM.3105",
       "kind": "patch",
-      "name": "Hack ESP FFMAX Chấp Tố.",
+      "name": "Hack ESPAIM FFMAX Chấp Tố.",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Hack FFMAX Chấp Tố.",
@@ -111,99 +111,9 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/ESP360-FFM.3105",
-      "sha256": "df4aa40e168eb1d1f87181e555cdaa8c4dfa69da3ed088c5818303d870d4dd08",
-      "size": 10927,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "changelog": "Phiên bản đầu tiên.",
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "AIMLOCK-FFTH.3105",
-      "kind": "patch",
-      "name": "Hack AIMLOCK FFTH Chấp Tố.",
-      "author": "PlatDex",
-      "version": "1.0.0",
-      "summary": "Bản Hack FFTH Chấp Tố.",
-      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
-      "category": "Plat Hack Game Vip",
-      "tags": [
-        "Plat Hack Game Vip"
-      ],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH3.png",
-      "screenshots": [
-        "assets/ANH1.png"
-      ],
-      "download": "packages/AIMLOCK-FFTH.3105",
-      "sha256": "3103a44d6ebc801291f8c0640855407062dbfc93e383c695ae167e4642892559",
-      "size": 9240,
-      "password": "@imnot_hd",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "changelog": "Phiên bản đầu tiên.",
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "AIMLOCK-FFM.3105",
-      "kind": "patch",
-      "name": "Hack AIMLOCK FFMAX Chấp Tố.",
-      "author": "PlatDex",
-      "version": "1.0.0",
-      "summary": "Bản Hack FFMAX Chấp Tố.",
-      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
-      "category": "Plat Hack Game Vip",
-      "tags": [
-        "Plat Hack Game Vip"
-      ],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH3.png",
-      "screenshots": [
-        "assets/ANH1.png"
-      ],
-      "download": "packages/AIMLOCK-FFM.3105",
-      "sha256": "ded3b4474536929414d73b81b7cc00514ad177b4244d4d2febe2e3a902a113ab",
-      "size": 9240,
-      "password": "@imnot_hd",
+      "download": "packages/ESPFFM.3105",
+      "sha256": "a88815a4aa855f051728cccf5352da1a80da6075dba63620943990ef2a478591",
+      "size": 22063,
       "supportedOS": [
         {
           "minimum": "17.0",
