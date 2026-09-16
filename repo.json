@@ -68,8 +68,8 @@
         "assets/ANH1.png"
       ],
       "download": "packages/ESP-FFTH.3105",
-      "sha256": "7bf98816a3a2339ddc9372331b552169e0f31ebfe82c8fc68c9be25e494ac329",
-      "size": 34205,
+      "sha256": "ebc9cbfc9b201db892dbab248687823b90e9073b4d55c9b1b176c3555ef6fc3b",
+      "size": 21228,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -112,8 +112,8 @@
         "assets/ANH1.png"
       ],
       "download": "packages/ESP-FFM.3105",
-      "sha256": "e7c2f39450d4730d2b8aa77b8d7a51c31ed89b0c971fa2fc6fb73f1d967ea10b",
-      "size": 34216,
+      "sha256": "9fb0aba903de1dd896f9c311be600c4e82f0f7bd556b2c734fca9a01ba44c64c",
+      "size": 21228,
       "supportedOS": [
         {
           "minimum": "17.0",
