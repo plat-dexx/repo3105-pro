@@ -182,6 +182,50 @@
       "changelog": "Phiên bản đầu tiên.",
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "FFTHV4.3105",
+      "kind": "patch",
+      "name": "Hack FFTH V4 Test OB55 Chấp Tố.",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản Cheat FFTH Chấp Tố.",
+      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Plat Hack Game Vip",
+      "tags": [
+        "Plat Hack Game Vip"
+      ],
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "icon": "assets/ANH3.png",
+      "screenshots": [
+        "assets/ANH1.png"
+      ],
+      "download": "packages/FFTHV4.3105",
+      "sha256": "3d0aa419cf95d57139bd1b416bf3d41028c61f162101dd31943a9ebd09af7cac",
+      "size": 44329,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Cập nhật phiên bản V4.",
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
