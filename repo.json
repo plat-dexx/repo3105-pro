@@ -137,6 +137,95 @@
       "changelog": "Phiên bản đầu tiên.",
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "FFTH-TEST.3105",
+      "kind": "patch",
+      "name": "Hack Aimbot FFTHV2 Test OB55 Chấp Tố.",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản Aimbot FFTH Chấp Tố.",
+      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Plat Hack Game Vip",
+      "tags": [
+        "Plat Hack Game Vip"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH3.png",
+      "screenshots": [
+        "assets/ANH1.png"
+      ],
+      "download": "packages/FFTH-TEST.3105",
+      "sha256": "8965f709c88c0ea8ed0d8e0b50f75ca91cc6e5142d4a6bedfd95d1735ad8a710",
+      "size": 12555,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "FFM-TEST.3105",
+      "kind": "patch",
+      "name": "Hack FFMAXV2 Test OB55 Chấp Tố.",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản Cheat FFMAX Chấp Tố.",
+      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Plat Hack Game Vip",
+      "tags": [
+        "Plat Hack Game Vip"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH3.png",
+      "screenshots": [
+        "assets/ANH1.png"
+      ],
+      "download": "packages/FFM-TEST.3105",
+      "sha256": "d2825b10406502f1ac3cf02146267799529dbc72c1c627df35adc59344454d8f",
+      "size": 21314,
+      "password": "YaBaoCheat",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
