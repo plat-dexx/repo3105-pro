@@ -96,7 +96,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "ESP-FFTH.3105",
+      "identifier": "HZZ-FFTHV1.3105",
       "kind": "patch",
       "name": "Hack FFTH V1 OB55 Chấp Tố.",
       "author": "PlatDex",
@@ -112,7 +112,7 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/HZZ-FFTHV3.3105",
+      "download": "packages/HZZ-FFTHV1.3105",
       "sha256": "b4314f532ac123949f88a6d87285e3f38de297246ec18bd9627414c9ecb016e2",
       "size": 33129,
       "supportedOS": [
@@ -140,7 +140,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "FFTH-TEST.3105",
+      "identifier": "FFTHV2.3105",
       "kind": "patch",
       "name": "Hack FFTH V2 OB55 Chấp Tố.",
       "author": "PlatDex",
@@ -156,7 +156,7 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/FFTH-TEST.3105",
+      "download": "packages/FFTHV2.3105",
       "sha256": "8965f709c88c0ea8ed0d8e0b50f75ca91cc6e5142d4a6bedfd95d1735ad8a710",
       "size": 12555,
       "supportedOS": [
