@@ -184,7 +184,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "HACK-FFTHV3.3105",
+      "identifier": "HZZ-FFTHV3.3105",
       "kind": "patch",
       "name": "Hack FFTH V3 OB55 Chấp Tố.",
       "author": "PlatDex",
@@ -200,10 +200,9 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/HACK-FFTHV3.3105",
-      "sha256": "253b91cf906549c90d49b475a94974b0f33309f0b00fbe78a2f76581c905c3c8",
-      "size": 47933,
-      "password": "jerrymod",
+      "download": "packages/HZZ-FFTHV3.3105",
+      "sha256": "b4314f532ac123949f88a6d87285e3f38de297246ec18bd9627414c9ecb016e2",
+      "size": 33129,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -231,7 +230,7 @@
     {
       "identifier": "FFTHV4.3105",
       "kind": "patch",
-      "name": "Hack FFTH V4 Test OB55 Chấp Tố.",
+      "name": "Hack FFTH V4 OB55 Chấp Tố.",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Cheat FFTH Chấp Tố.",
