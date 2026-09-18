@@ -107,14 +107,14 @@
       "tags": [
         "Plat Hack Game Vip"
       ],
-      "publishedAt": "2026-09-07T00:00:00Z",
+      "publishedAt": "2026-09-17T00:00:00Z",
       "icon": "assets/ANH3.png",
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/ESP-FFTH.3105",
-      "sha256": "ebc9cbfc9b201db892dbab248687823b90e9073b4d55c9b1b176c3555ef6fc3b",
-      "size": 21228,
+      "download": "packages/HZZ-FFTHV3.3105",
+      "sha256": "b4314f532ac123949f88a6d87285e3f38de297246ec18bd9627414c9ecb016e2",
+      "size": 33129,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -195,14 +195,14 @@
       "tags": [
         "Plat Hack Game Vip"
       ],
-      "publishedAt": "2026-09-17T00:00:00Z",
+      "publishedAt": "2026-09-07T00:00:00Z",
       "icon": "assets/ANH3.png",
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/HZZ-FFTHV3.3105",
-      "sha256": "b4314f532ac123949f88a6d87285e3f38de297246ec18bd9627414c9ecb016e2",
-      "size": 33129,
+      "download": "packages/ESP-FFTH.3105",
+      "sha256": "ebc9cbfc9b201db892dbab248687823b90e9073b4d55c9b1b176c3555ef6fc3b",
+      "size": 21228,
       "supportedOS": [
         {
           "minimum": "17.0",
