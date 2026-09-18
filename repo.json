@@ -6,9 +6,9 @@
   "icon": "assets/ANH0.png",
   "packages": [
     {
-      "identifier": "HackMapAOV.3105",
+      "identifier": "HACK-AOV.3105",
       "kind": "patch",
-      "name": "Hack AOV Chấp Tố.",
+      "name": "Map No Cam Liên Quân Chấp Tố.",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Cheat AOV Chấp Tố.",
@@ -22,10 +22,10 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/HackMapAOV.3105",
-      "sha256": "85748555ae5f8ece18522fa26a93f25d326b56aabcd4610d386f974d34b37da7",
-      "size": 138957,
-      "password": "PlatDex",
+      "download": "packages/HACK-AOV.3105",
+      "sha256": "cf109f1aae1a8659cc67f58da0dd47e0e32d1be596daf9ef904553378b869d8e",
+      "size": 16608,
+      "password": "PlatDeb",
       "supportedOS": [
         {
           "minimum": "17.0",
