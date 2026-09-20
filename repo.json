@@ -96,7 +96,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "HZZ-FFTHV1.3105",
+      "identifier": "FFTHV1.3105",
       "kind": "patch",
       "name": "Hack FFTH V1 OB55 Chấp Tố.",
       "author": "PlatDex",
@@ -112,9 +112,10 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/HZZ-FFTHV1.3105",
-      "sha256": "b4314f532ac123949f88a6d87285e3f38de297246ec18bd9627414c9ecb016e2",
-      "size": 33129,
+      "download": "packages/FFTHV1.3105",
+      "sha256": "be58999e35005a03d7b6ec309feed1d3b4b288eccbaeaf5aa68a6861b995b055",
+      "size": 40423,
+      "password": "DeltaVN"
       "supportedOS": [
         {
           "minimum": "17.0",
