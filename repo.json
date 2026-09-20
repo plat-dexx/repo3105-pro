@@ -115,7 +115,7 @@
       "download": "packages/FFTHV1.3105",
       "sha256": "be58999e35005a03d7b6ec309feed1d3b4b288eccbaeaf5aa68a6861b995b055",
       "size": 40423,
-      "password": "DeltaVN"
+      "password": "DeltaVN",
       "supportedOS": [
         {
           "minimum": "17.0",
