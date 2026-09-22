@@ -113,9 +113,9 @@
         "assets/ANH1.png"
       ],
       "download": "packages/FFTHV1.3105",
-      "sha256": "be58999e35005a03d7b6ec309feed1d3b4b288eccbaeaf5aa68a6861b995b055",
-      "size": 40423,
-      "password": "DeltaVN",
+      "sha256": "274bfe1d1b7ee665321cf3ce1543cf82329322db1585b2d2462487ff67f19edc",
+      "size": 47959,
+      "password": "Az12345@",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -181,51 +181,6 @@
         }
       ],
       "changelog": "Phiên bản đầu tiên.",
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "FFTHV3.3105",
-      "kind": "patch",
-      "name": "Hack FFTH V3 OB55 Chấp Tố.",
-      "author": "PlatDex",
-      "version": "1.0.0",
-      "summary": "Bản Cheat FFTH Chấp Tố.",
-      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
-      "category": "Plat Hack Game Vip",
-      "tags": [
-        "Plat Hack Game Vip"
-      ],
-      "publishedAt": "2026-09-20T00:00:00Z",
-      "icon": "assets/ANH3.png",
-      "screenshots": [
-        "assets/ANH1.png"
-      ],
-      "download": "packages/FFTHV3.3105",
-      "sha256": "aec340c44638e9135f3db7745f3719269091a6f789e56b006482cd7cd686d266",
-      "size": 47467,
-      "password": "@minhiosbanhacks1",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "changelog": "Phiên bản V3.",
       "featured": false,
       "isPrivate": false
     }
