@@ -113,8 +113,8 @@
         "assets/ANH1.png"
       ],
       "download": "packages/FFTHV1.3105",
-      "sha256": "5cbc5ba9d461b0a07be9be56646435f80bf7df3f80905bd16294795a1c1c44c3",
-      "size": 54644,
+      "sha256": "38cda25635df076fd2cd87426d479a77a95712854f38fcbe840815ad57c43424",
+      "size": 54648,
       "password": "platdeb",
       "supportedOS": [
         {
@@ -203,8 +203,8 @@
         "assets/ANH1.png"
       ],
       "download": "packages/FFTHV3.3105",
-      "sha256": "274bfe1d1b7ee665321cf3ce1543cf82329322db1585b2d2462487ff67f19edc",
-      "size": 47959,
+      "sha256": "1d26315b2dae9c27f780d5f07c88f406912346c26c0503e5a643f7946347926e",
+      "size": 47963,
       "password": "platdeb",
       "supportedOS": [
         {
