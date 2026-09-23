@@ -96,7 +96,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "PUPGV7.3105",
+      "identifier": "HACKPUBG.3105",
       "kind": "patch",
       "name": "Hack PUPG AntiBand.",
       "author": "PlatDex",
@@ -112,10 +112,10 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/PUPGV7.3105",
-      "sha256": "c514e651fcc9025b1795d9a327ff264d0d949b5c0c7d436725c2d203ff1999ae",
-      "size": 60993,
-      "password": "YB",
+      "download": "packages/HACKPUBG.3105",
+      "sha256": "be28215fb7c70e38a49046680407f7ec19d6bf73107c9155de2de5524d0a8852",
+      "size": 2903126,
+      "password": "platdeb",
       "supportedOS": [
         {
           "minimum": "17.0",
