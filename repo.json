@@ -158,9 +158,9 @@
         "assets/ANH1.png"
       ],
       "download": "packages/FFTHV1.3105",
-      "sha256": "38cda25635df076fd2cd87426d479a77a95712854f38fcbe840815ad57c43424",
-      "size": 54648,
-      "password": "platdep",
+      "sha256": "c3cd9145031085eb0da20c0722d99b56cafbbf5daefc84f3582751e0fe55f6f3",
+      "size": 54451,
+      "password": "platdeb",
       "supportedOS": [
         {
           "minimum": "17.0",
