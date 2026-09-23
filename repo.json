@@ -51,6 +51,51 @@
       "isPrivate": false
     },
     {
+      "identifier": "MAP-MOD.3105",
+      "kind": "patch",
+      "name": "Hack Map Và ModSkin Liên Quân.",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản Cheat AOV Chấp Tố.",
+      "description": "Cách Chơi: \nBước1: Vào Game Tải Đủ Tài Nguyên \nBước2: Vào App 3105 \nBước3: Áp Dụng Patch \nBước4: Thoát Game Xoá Đa Nhiệm Vào Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Plat Hack Game Vip",
+      "tags": [
+        "Plat Hack Game Vip"
+      ],
+      "publishedAt": "2026-09-23T00:00:00Z",
+      "icon": "assets/ANH2.png",
+      "screenshots": [
+        "assets/ANH1.png"
+      ],
+      "download": "packages/MAP-MOD.3105",
+      "sha256": "516cadca74afd1bc73b0e8d669a7ac163cd82c863e8602e58b432d5cee9b36cc",
+      "size": 13114862,
+      "password": "platdeb",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản Mod Map đầu tiên.",
+      "featured": false,
+      "isPrivate": false
+    },
+    {
       "identifier": "PUPGV7.3105",
       "kind": "patch",
       "name": "Hack PUPG AntiBand.",
@@ -182,51 +227,6 @@
         }
       ],
       "changelog": "Phiên bản đầu tiên.",
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "FFTHV3.3105",
-      "kind": "patch",
-      "name": "Hack FFTH V3 OB55 Chấp Tố.",
-      "author": "PlatDex",
-      "version": "1.0.0",
-      "summary": "Bản Cheat FFTH Chấp Tố V3.",
-      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
-      "category": "Plat Hack Game Vip",
-      "tags": [
-        "Plat Hack Game Vip"
-      ],
-      "publishedAt": "2026-09-23T00:00:00Z",
-      "icon": "assets/ANH3.png",
-      "screenshots": [
-        "assets/ANH1.png"
-      ],
-      "download": "packages/FFTHV3.3105",
-      "sha256": "1d26315b2dae9c27f780d5f07c88f406912346c26c0503e5a643f7946347926e",
-      "size": 47963,
-      "password": "platdeb",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "changelog": "Phiên bản V3 mới nhất.",
       "featured": false,
       "isPrivate": false
     }
