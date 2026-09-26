@@ -51,21 +51,6 @@
       "isPrivate": false
     },
     {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "changelog": "Phiên bản Mod Map đầu tiên.",
-      "featured": false,
-      "isPrivate": false
-    },
-    {
       "identifier": "HACKPUBG.3105",
       "kind": "patch",
       "name": "Hack PUPG AntiBand.",
