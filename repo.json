@@ -51,36 +51,6 @@
       "isPrivate": false
     },
     {
-      "identifier": "LQMOD.3105",
-      "kind": "patch",
-      "name": "Hack Map Mod Skin Liên Quân.",
-      "author": "PlatDex",
-      "version": "1.0.0",
-      "summary": "Bản Cheat AOV Chấp Tố.",
-      "description": "Cách Chơi: \nBước1: Vào Game Tải Đủ Tài Nguyên \nBước2: Vào App 3105 \nBước3: Áp Dụng Patch \nBước4: Thoát Game Xoá Đa Nhiệm Vào Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
-      "category": "Plat Hack Game Vip",
-      "tags": [
-        "Plat Hack Game Vip"
-      ],
-      "publishedAt": "2026-09-23T00:00:00Z",
-      "icon": "assets/ANH2.png",
-      "screenshots": [
-        "assets/ANH1.png"
-      ],
-      "download": "packages/LQMOD.3105",
-      "sha256": "e99e85a31064ed3eeaba84e810550cc1c398aeae4ec0b0a55450b41c08a8b354",
-      "size": 26804616,
-      "password": "platdeb",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
           "minimum": "27.0",
           "maximum": "27.0",
           "builds": [
