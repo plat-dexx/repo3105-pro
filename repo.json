@@ -8,10 +8,10 @@
     {
       "identifier": "HACK-AOV.3105",
       "kind": "patch",
-      "name": "Hack Map Liên Quân Chấp Tố.",
+      "name": "Map Sáng Liên Quân Chấp Tố.",
       "author": "PlatDex",
       "version": "1.0.0",
-      "summary": "Bản Cheat AOV Chấp Tố.",
+      "summary": "Bản Hack AOV Chấp Tố.",
       "description": "Cách Chơi: \nBước1: Vào Game Tải Đủ Tài Nguyên \nBước2: Vào App 3105 \nBước3: Áp Dụng Patch \nBước4: Thoát Game Xoá Đa Nhiệm Vào Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
       "category": "Plat Hack Game Vip",
       "tags": [
@@ -51,9 +51,9 @@
       "isPrivate": false
     },
     {
-      "identifier": "MAP-MOD.3105",
+      "identifier": "LQMOD.3105",
       "kind": "patch",
-      "name": "Hack Map Và ModSkin Liên Quân.",
+      "name": "Hack Map Mod Skin Liên Quân.",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Cheat AOV Chấp Tố.",
@@ -67,9 +67,9 @@
       "screenshots": [
         "assets/ANH1.png"
       ],
-      "download": "packages/MAP-MOD.3105",
-      "sha256": "516cadca74afd1bc73b0e8d669a7ac163cd82c863e8602e58b432d5cee9b36cc",
-      "size": 13114862,
+      "download": "packages/LQMOD.3105",
+      "sha256": "e99e85a31064ed3eeaba84e810550cc1c398aeae4ec0b0a55450b41c08a8b354",
+      "size": 26804616,
       "password": "platdeb",
       "supportedOS": [
         {
